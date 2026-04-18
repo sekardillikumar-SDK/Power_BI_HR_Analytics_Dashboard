@@ -110,4 +110,4 @@ The analysis is based on the `HR_Analytics.csv` file containing anonymized emplo
 
 ## HR_Analytics Dashboard
 
-![HR Dashboard](Image/dashboard_HR_Analytics.png)
+![HR Dashboard](Image/Dashboard_HR_Analytics.png)
