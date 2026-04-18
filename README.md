@@ -212,3 +212,9 @@ This Power BI dashboard enables HR teams to:
 ## Data Source
 >>>>>>> fbb86d64fd739938246b89dc51603ea52ef79672
 The analysis is based on the `HR_Analytics.csv` file containing anonymized employee data from a fictional organization.
+
+# 📷 Dashboard Preview
+
+## HR_Analytics Dashboard
+
+![HR Dashboard](images/dashboard_HR_Analytics.png)
