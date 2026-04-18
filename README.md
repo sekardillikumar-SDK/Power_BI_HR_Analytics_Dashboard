@@ -1,4 +1,5 @@
 Power BI HR Analytics Project Explanation
+
 Project Overview
 This project focuses on analyzing Human Resources data to gain insights into employee attrition, satisfaction, performance, and other key HR metrics. Using Microsoft Power BI, we create interactive dashboards that help HR departments make data-driven decisions to improve employee retention and organizational effectiveness.
 
