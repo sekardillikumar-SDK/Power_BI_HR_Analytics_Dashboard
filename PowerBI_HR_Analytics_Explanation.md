@@ -43,7 +43,7 @@ data/
 Hr_Analytics.csv
 
 dashboard/
-HR_Analytics_Dashboard.pbixl
+HR_Analytics_Dashboard.pbix
 
 images/
 HR_Analytics_Dashboard Preview.png
